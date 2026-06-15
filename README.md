@@ -1,13 +1,14 @@
 <div align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,35:FDF6E3,70:F5EBCD,100:EED9B7&height=190&section=header&text=Pierre%20Ramez%20Francis&fontSize=44&fontColor=111111&fontAlign=50&fontAlignY=36&desc=Computer%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Edge%20Inference&descAlign=50&descAlignY=60&descSize=16&descColor=222222&animation=fadeIn"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,35:FDF6E3,70:F5EBCD,100:EED9B7&height=200&section=header&text=Pierre%20Ramez%20Francis&fontSize=46&fontColor=111111&fontAlign=50&fontAlignY=36&desc=Reliable%20LLM%20Systems%20for%20Code%20and%20Security%2C%20under%20Real%20Constraints&descAlign=50&descAlignY=58&descSize=15&descColor=222222&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=f5ebce&center=true&vCenter=true&width=900&lines=Local+AI;LLM4Code;Agentic+AI+Systems;LLM+Fine-Tuning+%26+Efficient+Inference;AI+for+Cybersecurity+%26+OT%2FICS)](https://github.com/pr-francis)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=B8860B&center=true&vCenter=true&width=900&lines=LLM4Code+%3A+reliable%2C+secure+code+generation;Agentic+AI+systems+%3A+architecture+and+evaluation;Efficient+inference+on+constrained+hardware;AI+for+OT%2FICS+cybersecurity)](https://github.com/pr-francis)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pierreramez)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre.ramez10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre.ramez10@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/pr-francis)
 
 <sub>MSA University × University of Greenwich &nbsp;·&nbsp; 6th of October, Egypt &nbsp;·&nbsp; Graduating June 2027</sub>
@@ -17,50 +18,35 @@
 <br>
 
 ---
-<div align="center">
-  
+
 ### About
-</div>
 
-I'm a Computer Engineering student building AI systems that operate under real constraints: constrained hardware, safety-critical environments, and the gap between benchmark performance and production behavior. My current focus is LLMs for code generation: generating a reliable/secure code that works effectively for large tasks.
+I build LLM-based systems for software engineering and security, organized around a single question: how do you make a model's output reliable enough to trust in constrained, safety-critical settings? My work runs from formal evaluation of LLM-generated code, to agentic pipelines for industrial threat intelligence, to efficient inference on limited hardware.
 
-I am an Undergraduate Student Researcher at [University of Illinois Summer Research in Software Engineering program (SRSE)](https://uiuc-srse.github.io/), an OT cybersecurity startup, where I research agentic architectures for industrial threat intelligence. At MSA University I lead the research group at the CSE Outstanding Hub, and I teach C++ programming to secondary school students.
+In summer 2026 I am joining the [University of Illinois Summer Research in Software Engineering (UIUC++ SRSE)](https://uiuc-srse.github.io/) 2026 cohort to work on a code generation research project, after being selected through a Verus-based formal-verification evaluation. Earlier in 2026 I was an AI Intern at [ControlPoint](https://control-point.io/about), an OT/ICS cybersecurity startup, where I designed agentic architectures for industrial threat intelligence. At MSA University I lead the research group at the CSE Outstanding Hub and teach C++ to secondary school students.
+
+---
+
+### Research Focus
+
+- **LLMs for code generation.** Reliable and secure code synthesis for non-trivial tasks, evaluated formally and empirically rather than by demo.
+- **Agentic AI systems.** Architecture, reliability, and evaluation of autonomous LLM pipelines: task decomposition, tool use, and output contracts.
+- **Efficient inference.** Quantization and principled quality-versus-cost tradeoffs for deployment on constrained hardware.
+- **AI for cybersecurity.** Vulnerability analysis and automated threat intelligence for OT/ICS environments.
 
 ---
 
-<div align="center">
+### Now
 
-### Research Interests
-
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Systems-49B42A?style=flat-square&logoColor=black)
-![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning%20%26%20PEFT-49B42A?style=flat-square&logoColor=black)
-![Edge Inference](https://img.shields.io/badge/Edge%20Inference-49B42A?style=flat-square&logoColor=black)
-![AI for Cybersecurity](https://img.shields.io/badge/AI%20for%20Cybersecurity-49B42A?style=flat-square&logoColor=black)
-
-</div>
-
-- **Agentic AI systems** — architecture, reliability, and formal evaluation of autonomous LLM-based pipelines
-- **LLM fine-tuning under constraints** — PEFT methods (LoRA, QLoRA), closed-loop HITL learning, in-production weight adaptation
-- **Edge inference** — principled efficiency–quality tradeoffs, quantization, model selection for resource-constrained deployment
-- **AI for cybersecurity** — vulnerability analysis, automated threat intelligence, OT/ICS security
+| | Role | Where | Focus |
+|--|--|--|--|
+| 🔬 | **Incoming Undergraduate Researcher** | UIUC++ SRSE 2026 | Code generation research; selected through a Verus-based formal-verification evaluation |
+| 🧠 | **Head of Research** | Outstanding Hub, CSE Dept., MSA University *(since Nov 2025)* | Leading a research group and survey on automation in AI/ML systems |
+| 🖥️ | **Programming Instructor** | 6th of October, Egypt *(since Oct 2025)* | C++ fundamentals, secondary school level |
 
 ---
-<div align="center">
-  
-### Current Work
-</div>
 
-| &nbsp; | Role | Where | Focus |
-|--------|------|--------|-------|
-| 🔒 | **AI Intern** | [ControlPoint](https://control-point.io/about) *(Feb 2026 – present)* | Agentic architectures for OT/ICS security MVP — task decomposition, tool-use pipelines, competitive platform analysis |
-| 🔬 | **Head of Research** | Outstanding Hub, CSE Dept., MSA University *(Nov 2025 – present)* | Research group on automation in AI/ML systems; survey paper in progress |
-| 🖥️ | **Programming Instructor** | 6th of October, Egypt/Remote *(Oct 2025 – present)* | C++ fundamentals, secondary school level |
-
----
-<div align="center">
-  
-### Projects
-</div>
+### Selected Work
 
 <details open>
 <summary><b>🔒 Automated OT/ICS Threat Intelligence Pipeline</b></summary>
@@ -71,16 +57,16 @@ I am an Undergraduate Student Researcher at [University of Illinois Summer Resea
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-[![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pr-francis/Automated-Threat-Intelligence-Pipeline)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pr-francis/Automated-Threat-Intelligence-Pipeline)
 
-An end-to-end agentic pipeline for industrial cybersecurity. Polls the National Vulnerability Database for live CVE feeds, applies a two-stage classification architecture (domain-specific keyword prefilter → single-pass LLM inference with strict JSON output contracts), and delivers findings through a real-time analyst-facing Streamlit dashboard. Deployed via GitHub Actions CI/CD. This project preceded my current internship at ControlPoint.
+An agentic pipeline for industrial cybersecurity. It polls the National Vulnerability Database for live CVE feeds, applies a two-stage classifier (a domain-specific keyword prefilter, then a single LLM pass under strict JSON output contracts), and surfaces findings through an analyst-facing Streamlit dashboard, deployed via GitHub Actions. This work preceded and shaped my internship at ControlPoint.
 
 </details>
 
 <br>
 
 <details open>
-<summary><b>🤖 Ouro — Closed-Loop Active Learning System</b> &nbsp;<em>(Team Lead)</em></summary>
+<summary><b>🤖 Ouro: Closed-Loop Active Learning System</b> &nbsp;<em>(Team Lead)</em></summary>
 
 <br>
 
@@ -90,16 +76,17 @@ An end-to-end agentic pipeline for industrial cybersecurity. Polls the National 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-[![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pr-francis/PersonalChatbot)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pr-francis/PersonalChatbot)
 
-A production-grade active learning system built on Llama 3.2 3B. A HITL pipeline captures user correction signals at inference time, triggers LoRA adapter retraining, and hot-swaps weights with zero service interruption — continuous in-production improvement without redeployment. Trained on a 13k-row curated dataset (DailyDialogue + Mental Health corpus), achieving **4.08 perplexity** and **0.88 BERTScore F1** on a held-out evaluation set. Model selection, 3B over 8B, was driven by a formal comparative study: identical evaluation protocol across both variants, with the decision justified through a documented efficiency–quality tradeoff analysis under **4-bit quantization** targeting edge deployment constraints. MLflow experiment tracking and GitHub Actions CI/CD throughout.
+A continual-learning system built on Llama 3.2 3B. A human-in-the-loop pipeline captures correction signals at inference time, triggers LoRA adapter retraining, and hot-swaps weights with no service interruption, so the model improves in production without redeployment. Trained on a 13k-row curated dataset (DailyDialog plus a mental-health corpus), it reaches 4.08 perplexity and 0.88 BERTScore F1 on a held-out set. The choice of 3B over 8B came from a controlled comparison under an identical protocol, documented as an efficiency-versus-quality tradeoff under 4-bit quantization for edge deployment. MLflow tracking and GitHub Actions throughout.
 
 </details>
 
 ---
+
+### Stack
+
 <div align="center">
-  
-### Technical Stack
 
 **Languages**
 
@@ -107,54 +94,45 @@ A production-grade active learning system built on Llama 3.2 3B. A HITL pipeline
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Machine Learning**
+**Machine Learning and LLMs**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**MLOps & Systems**
+**MLOps and Systems**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
-<div align="center">
-  
+
 ### Writing
-</div>
 
 **[A Mathematical Breakdown of Gradient Descent](https://www.linkedin.com/posts/cse-innovation-hub-msa_gradient-descent-algorithm-activity-7290795656426749952-l3WJ)**
 &nbsp;·&nbsp; *CSE Innovation Hub, MSA University · Feb 2025*
 
-Mathematical derivation of gradient descent through intuitive analogies and step-by-step implementation, partial derivatives of the loss function, learning rate effects on convergence geometry, and Batch/Stochastic/Mini-Batch variants.
+A derivation of gradient descent from first principles: partial derivatives of the loss function, the effect of learning rate on convergence geometry, and the Batch, Stochastic, and Mini-Batch variants.
 
 ---
+
 <div align="center">
-  
+
 ### Connect
 
-Open to research collaborations in agentic AI, LLM systems, and software engineering for AI.
+Open to research collaboration in LLM systems, agentic AI, and software engineering for AI.
 
-📧 [pierre.ramez10@gmail.com](mailto:pierre.ramez10@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/pr-francis](https://linkedin.com/in/pr-francis)
+📧 [pierre.ramez10@gmail.com](mailto:pierre.ramez10@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/pierreramez](https://linkedin.com/in/pierreramez)
+
 </div>
 
 <br>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,35:FDF6E3,70:F5EBCD,100:EED9B7&height=120&section=footer"/>
