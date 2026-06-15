@@ -1,14 +1,14 @@
 <div align="center">
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,35:FDF6E3,70:F5EBCD,100:EED9B7&height=190&section=header&text=Pierre%20Ramez%20Francis&fontSize=44&fontColor=111111&fontAlign=50&fontAlignY=36&desc=Computer%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Edge%20Inference&descAlign=50&descAlignY=60&descSize=16&descColor=222222&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=f5ebce&center=true&vCenter=true&width=900&lines=Local+AI;LLM4Code;Agentic+AI+Systems;LLM+Fine-Tuning+%26+Efficient+Inference;AI+for+Cybersecurity+%26+OT%2FICS)](https://github.com/PierreRamez)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=f5ebce&center=true&vCenter=true&width=900&lines=Local+AI;LLM4Code;Agentic+AI+Systems;LLM+Fine-Tuning+%26+Efficient+Inference;AI+for+Cybersecurity+%26+OT%2FICS)](https://github.com/PierreThePharaoh)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pierreramez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/PierreThePharaoh)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre.ramez10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreThePharaoh)
 
 <sub>MSA University × University of Greenwich &nbsp;·&nbsp; 6th of October, Egypt &nbsp;·&nbsp; Graduating June 2027</sub>
 
@@ -71,7 +71,7 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-[![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez/Automated-Threat-Intelligence-Pipeline)
+[![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreThePharaoh/Automated-Threat-Intelligence-Pipeline)
 
 An end-to-end agentic pipeline for industrial cybersecurity. Polls the National Vulnerability Database for live CVE feeds, applies a two-stage classification architecture (domain-specific keyword prefilter → single-pass LLM inference with strict JSON output contracts), and delivers findings through a real-time analyst-facing Streamlit dashboard. Deployed via GitHub Actions CI/CD. This project preceded my current internship at ControlPoint.
 
@@ -90,7 +90,7 @@ An end-to-end agentic pipeline for industrial cybersecurity. Polls the National 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-[![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez/PersonalChatbot)
+[![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreThePharaoh/PersonalChatbot)
 
 A production-grade active learning system built on Llama 3.2 3B. A HITL pipeline captures user correction signals at inference time, triggers LoRA adapter retraining, and hot-swaps weights with zero service interruption — continuous in-production improvement without redeployment. Trained on a 13k-row curated dataset (DailyDialogue + Mental Health corpus), achieving **4.08 perplexity** and **0.88 BERTScore F1** on a held-out evaluation set. Model selection, 3B over 8B, was driven by a formal comparative study: identical evaluation protocol across both variants, with the decision justified through a documented efficiency–quality tradeoff analysis under **4-bit quantization** targeting edge deployment constraints. MLflow experiment tracking and GitHub Actions CI/CD throughout.
 
@@ -151,7 +151,7 @@ Mathematical derivation of gradient descent through intuitive analogies and step
 
 Open to research collaborations in agentic AI, LLM systems, and software engineering for AI.
 
-📧 [pierre.ramez10@gmail.com](mailto:pierre.ramez10@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/pierreramez](https://linkedin.com/in/pierreramez)
+📧 [pierre.ramez10@gmail.com](mailto:pierre.ramez10@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/PierreThePharaoh](https://linkedin.com/in/PierreThePharaoh)
 </div>
 
 <br>
