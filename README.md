@@ -23,7 +23,7 @@
 
 I build LLM-based systems for software engineering and security, organized around a single question: how do you make a model's output reliable enough to trust in constrained, safety-critical settings? My work runs from formal evaluation of LLM-generated code, to agentic pipelines for industrial threat intelligence, to efficient inference on limited hardware.
 
-In summer 2026 I am joining the [University of Illinois Summer Research in Software Engineering (UIUC++ SRSE)](https://uiuc-srse.github.io/) 2026 cohort to work on a code generation research project, after being selected through a Verus-based formal-verification evaluation. Earlier in 2026 I was an AI Intern at [ControlPoint](https://control-point.io/about), an OT/ICS cybersecurity startup, where I designed agentic architectures for industrial threat intelligence. At MSA University I lead the research group at the CSE Outstanding Hub and teach C++ to secondary school students.
+In summer 2026 I am joining the [University of Illinois Summer Research in Software Engineering (UIUC++ SRSE)](https://uiuc-srse.github.io/) 2026 cohort to work on a code generation research project, after being selected through a Verus-based formal-verification evaluation. Earlier in 2026 I was an AI Intern at [ControlPoint](https://control-point.io/about), an OT/ICS cybersecurity startup, where I designed agentic architectures for industrial threat intelligence. At MSA University I lead the research group at the CSE Outstanding Hub.
 
 ---
 
@@ -40,9 +40,8 @@ In summer 2026 I am joining the [University of Illinois Summer Research in Softw
 
 | | Role | Where | Focus |
 |--|--|--|--|
-| 🔬 | **Incoming Undergraduate Researcher** | UIUC++ SRSE 2026 | Code generation research; selected through a Verus-based formal-verification evaluation |
+| 🔬 | **Incoming Undergraduate Researcher** | UIUC++ SRSE 2026 | Code generation research; Mutation Testing |
 | 🧠 | **Head of Research** | Outstanding Hub, CSE Dept., MSA University *(since Nov 2025)* | Leading a research group and survey on automation in AI/ML systems |
-| 🖥️ | **Programming Instructor** | 6th of October, Egypt *(since Oct 2025)* | C++ fundamentals, secondary school level |
 
 ---
 
