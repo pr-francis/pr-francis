@@ -40,7 +40,7 @@ In summer 2026 I am joining the [University of Illinois Summer Research in Softw
 
 | | Role | Where | Focus |
 |--|--|--|--|
-| 🔬 | **Incoming Undergraduate Researcher** | UIUC++ SRSE 2026 | Code generation research; Mutation Testing |
+| 🔬 | **Undergraduate Researcher** | UIUC++ SRSE 2026 | Code generation research; Mutation Testing; Bug Reports |
 | 🧠 | **Head of Research** | Outstanding Hub, CSE Dept., MSA University *(since Nov 2025)* | Leading a research group and survey on automation in AI/ML systems |
 
 ---
